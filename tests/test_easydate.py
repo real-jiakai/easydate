@@ -1,5 +1,5 @@
 # tests/test_easydate.py
-from easydate import get_current_datetime, calculate_days_between, get_weekday
+from easydatejiakai import get_current_datetime, calculate_days_between, get_weekday
 
 def test_get_current_datetime_format():
     dt = get_current_datetime()

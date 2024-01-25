@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='easydate',
+    name='easydatejiakai',
     version='0.1.0',
     author='Jiakai',
     author_email='gujiakai28@gmail.com',
